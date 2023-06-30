@@ -1,6 +1,5 @@
 #!/usr/bin/env node
-import { getName }  from '../src/cli.js'
+import { getName } from '../src/cli.js';
 
 const result = getName();
-console.log('Hello, ' + result + '!')
-
+console.log(`Hello, ${result}!`);
