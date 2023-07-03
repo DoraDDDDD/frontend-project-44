@@ -3,7 +3,7 @@ import readline from 'readline';
 
 function generateQuestion() {
     const num1 = Math.floor(Math.random() * 100) + 1;
-    const num2 = Math.floor(Mиath.random() * 100) + 1;
+    const num2 = Math.floor(Math.random() * 100) + 1;
     const operator = ['+', '-', '*'][Math.floor(Math.random() * 3)];
     const question = num1 + ' ' + operator + ' ' + num2;
     return question;
