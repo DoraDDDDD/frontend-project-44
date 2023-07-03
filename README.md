@@ -6,3 +6,6 @@
 https://asciinema.org/a/Ydmym58Kun5arKVMSKiFGaVKO - task N5
 
 https://asciinema.org/a/2fM8EItGknDMRQ6VJWOUMuNsX - task N6
+
+https://asciinema.org/a/eSJ6Zbb8nRGZCzQdkBkH6gufz - task N7
+

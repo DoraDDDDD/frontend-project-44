@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const readlineSync = require('readline-sync');
+import readlineSync from 'readline-sync';
 
 function gcd(a, b) {
     if (b === 0) {
